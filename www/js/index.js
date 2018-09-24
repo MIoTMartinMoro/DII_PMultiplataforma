@@ -5,6 +5,13 @@ document.addEventListener("deviceready", onDeviceReady, false);
 
     
 	function onDeviceReady() {
+
+		window.addEventListener("batterystatus", onBatteryStatus, false);
+
+		function onBatteryStatus(status) {
+			document.getElementById('battery').innerHTML = status.level
+		    console.log("Level: " + status.level + " isPlugged: " + status.isPlugged);
+		}
         
 		document.getElementById('sayHello').onclick = function () { alert("hola"); }
 

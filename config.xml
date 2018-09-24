@@ -25,5 +25,6 @@
     </platform>
     <plugin name="cordova-plugin-camera" spec="^4.0.3" />
     <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
+    <plugin name="cordova-plugin-battery-status" spec="^2.0.2" />
     <engine name="android" spec="^7.0.0" />
 </widget>
