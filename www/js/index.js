@@ -22,6 +22,9 @@ document.addEventListener("deviceready", onDeviceReady, false);
 										lastPhoto.innerHTML="<img src='" + imageURI + "' style='width=60%;'/>" } ) 
 	
 					}
+		document.getElementById('vibrar').onclick = function () {
+			navigator.vibrate(1000)
+		}
 
 				
 		

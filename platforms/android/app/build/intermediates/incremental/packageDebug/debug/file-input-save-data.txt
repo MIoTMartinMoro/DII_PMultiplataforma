@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 24 20:13:55 CEST 2018
+#Mon Sep 24 20:26:20 CEST 2018
 25.file=/home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_/res/mipmap-xxxhdpi-v4/icon.png
 25.base=/home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_
 22.set=ANDROID_RESOURCE

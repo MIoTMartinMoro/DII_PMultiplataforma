@@ -11,15 +11,15 @@ INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android
 	android:name
 		ADDED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:12:127-180
 manifest
-ADDED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:support-v4:24.1.1] /home/carlos/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/5395e8909b92695171e19b49f1b2e463/AndroidManifest.xml:17:1-27:12
 MERGED from [:CordovaLib] /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
-INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:2:102-135
 		INJECTED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml
@@ -120,6 +120,10 @@ uses-feature#android.hardware.location.gps
 ADDED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:20:19-63
+uses-permission#android.permission.VIBRATE
+ADDED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:21:22-63
 meta-data#android.support.FILE_PROVIDER_PATHS
 ADDED from /home/carlos/Documentos/Desarrollo/cordova/hello/platforms/android/app/src/main/AndroidManifest.xml:13:13-123
 	android:resource

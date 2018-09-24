@@ -61,7 +61,8 @@ module.exports.metadata =
   "cordova-plugin-whitelist": "1.3.3",
   "cordova-plugin-camera": "4.0.3",
   "cordova-plugin-geolocation": "4.0.1",
-  "cordova-plugin-battery-status": "2.0.2"
+  "cordova-plugin-battery-status": "2.0.2",
+  "cordova-plugin-vibration": "3.1.0"
 };
 // BOTTOM OF METADATA
 });
